@@ -27,7 +27,7 @@ namespace minDisks
                     int amount = ReadInt32(Console.ReadLine());
 
                     //used
-                    Console.WriteLine("Insert disks used space");
+                    Console.WriteLine("Insert USED disk space (Separated by enter)");
                     int[] used = new int[amount];
                     for (int i = 0; i < used.Length; i++)
                     {
@@ -35,7 +35,7 @@ namespace minDisks
                     }
 
                     //total
-                    Console.WriteLine("Insert total disks space");
+                    Console.WriteLine("Insert TOTAL disks space (Separated by enter)");
                     int[] total = new int[amount];
                     for (int i = 0; i < total.Length; i++)
                     {
@@ -97,7 +97,7 @@ namespace minDisks
                     Console.WriteLine("Result: " + result);
                     Console.WriteLine("");
                 }
-                else
+                else if (option == 3)
                     salir = true;
 
             }
