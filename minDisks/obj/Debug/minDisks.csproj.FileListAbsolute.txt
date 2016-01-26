@@ -1,0 +1,6 @@
+c:\users\djmaxi\documents\visual studio 2015\Projects\minDisks\minDisks\bin\Debug\minDisks.exe.config
+c:\users\djmaxi\documents\visual studio 2015\Projects\minDisks\minDisks\bin\Debug\minDisks.exe
+c:\users\djmaxi\documents\visual studio 2015\Projects\minDisks\minDisks\bin\Debug\minDisks.pdb
+c:\users\djmaxi\documents\visual studio 2015\Projects\minDisks\minDisks\obj\Debug\minDisks.csprojResolveAssemblyReference.cache
+c:\users\djmaxi\documents\visual studio 2015\Projects\minDisks\minDisks\obj\Debug\minDisks.exe
+c:\users\djmaxi\documents\visual studio 2015\Projects\minDisks\minDisks\obj\Debug\minDisks.pdb
